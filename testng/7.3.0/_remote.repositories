@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 19 12:23:23 CLT 2021
+testng-7.3.0.jar>central=
+testng-7.3.0-sources.jar>central=
+testng-7.3.0.pom>central=
